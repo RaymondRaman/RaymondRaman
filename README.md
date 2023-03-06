@@ -11,4 +11,4 @@ Hello World 👋
 
 📫 How to reach me: LIKAWAI@link.cuhk.edu.hk
 
-📚 Programming language/tools I know: Frontend (Figma) + Backend (C Python Java)
+📚 Programming language/tools I know: Backend (C Python Java) + UXUI (Figma)
