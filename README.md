@@ -11,4 +11,4 @@ Hello World 👋
 
 📫 How to reach me: LIKAWAI@link.cuhk.edu.hk
 
-📚 Programming language/tools I know: Front End (HTML CSS Javascript) + Backend (C Python Java) + UXUI (Figma)
+📚 Programming language/tools I know: Front End {HTML CSS(Bootstrap) Javascript(JQuery)} + Backend (C Python Java) + UXUI (Figma)
