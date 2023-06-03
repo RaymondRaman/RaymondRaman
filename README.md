@@ -15,4 +15,6 @@ Hello World 👋
 <br>
 <br>
 Front End {HTML(React) CSS(Bootstrap) Javascript} + Backend (C Python Java) + UXUI (Figma)
+<br>
+<br>
 Mobile {ReactNative}
