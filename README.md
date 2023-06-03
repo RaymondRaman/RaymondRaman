@@ -14,4 +14,5 @@ Hello World 👋
 📚 Programming language/tools I know: 
 <br>
 <br>
-Front End {HTML(React) CSS(Bootstrap) Javascript(JQuery)} + Backend (C Python Java) + UXUI (Figma)
+Front End {HTML(React) CSS(Bootstrap) Javascript} + Backend (C Python Java) + UXUI (Figma)
+Mobile {ReactNative}
