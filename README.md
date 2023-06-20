@@ -17,3 +17,5 @@ Hello World 👋
 Front End {HTML(React) CSS(Bootstrap) Javascript} + Backend (C Python Java) + UXUI (Figma)
 <br>
 Mobile {ReactNative}
+<br>
+Report {Crystal Report, Jasper Report}
