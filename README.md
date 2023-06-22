@@ -19,13 +19,7 @@ Front End
 ![bootstrap](https://github.com/RaymondRaman/RaymondRaman/assets/107023977/ea3d3b87-6bd5-4e2c-8be0-724d8f5c0a47)
 ![react](https://github.com/RaymondRaman/RaymondRaman/assets/107023977/ef4901f3-3d52-4e7b-9e67-099d697a7fa0)
 <br>
-Backend
-<br>
-<svg width="105" height="48" viewBox="0 0 105 48" fill="none">
-  <image xlink:href="![python](https://github.com/RaymondRaman/RaymondRaman/assets/107023977/f0410ecf-9002-4a35-a485-4ce8f0b907b9)" width="100%" height="100%" />
-</svg>
-
-python, java, C
+Backend { python, java, C }
 <br>
 Mobile {ReactNative}
 <br>
