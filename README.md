@@ -22,8 +22,9 @@ Front End
 Backend
 <br>
 <svg width="105" height="48" viewBox="0 0 105 48" fill="none">
-  <image xlink:href="https://github.com/RaymondRaman/RaymondRaman/assets/107023977/9ab6061f-7f66-4b76-adb8-987b3082fc4e" width="100%" height="100%" />
+  <image xlink:href="![python](https://github.com/RaymondRaman/RaymondRaman/assets/107023977/f0410ecf-9002-4a35-a485-4ce8f0b907b9)" width="100%" height="100%" />
 </svg>
+
 python, java, C
 <br>
 Mobile {ReactNative}
