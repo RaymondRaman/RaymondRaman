@@ -21,8 +21,9 @@ Front End
 <br>
 Backend
 <br>
-<style width="105" height="48" viewBox="0 0 105 48" fill="none">![python](https://github.com/RaymondRaman/RaymondRaman/assets/107023977/9ab6061f-7f66-4b76-adb8-987b3082fc4e)</style>
-
+<svg width="105" height="48" viewBox="0 0 105 48" fill="none">
+  <image xlink:href="https://github.com/RaymondRaman/RaymondRaman/assets/107023977/9ab6061f-7f66-4b76-adb8-987b3082fc4e" width="100%" height="100%" />
+</svg>
 python, java, C
 <br>
 Mobile {ReactNative}
