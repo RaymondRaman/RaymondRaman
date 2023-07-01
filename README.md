@@ -1,3 +1,13 @@
+<style>
+  .image-container {
+    white-space: nowrap;
+  }
+  .image-container img {
+    display: inline-block;
+    vertical-align: middle;
+  }
+</style>
+
 <h1>Hi 👋, I'm Raymond</h1>
 <h3>A Passionate FinTech Student From CUHK</h3>
 <img src="https://komarev.com/ghpvc/?username=RaymondRaman&label=Profile%20views&color=0e75b6&style=flat" alt="RaymondRaman"/> 
@@ -20,15 +30,13 @@
 📚 Programming language/tools I know: 
 <br>
 <Strong>Front End</Strong>
-<br>
-![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
-![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
-<img src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5"><img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3">
-<img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript">
-<img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react">
-<br>
-<img src="https://github.com/RaymondRaman/RaymondRaman/assets/107023977/845a9508-4a32-4f6a-bd14-fdb6af75e02e">
-<br>
+<div class="image-container">
+  <img src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5">
+  <img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3">
+  <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript">
+  <img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react">
+  <img src="https://github.com/RaymondRaman/RaymondRaman/assets/107023977/845a9508-4a32-4f6a-bd14-fdb6af75e02e">
+</div>
 <Strong>Backend</Strong>
 <br>
 <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python">
