@@ -1,5 +1,6 @@
 <h1>Hi 👋, I'm Raymond</h1>
 <h3>A Passionate FinTech Student From CUHK</h3>
+<img src="https://komarev.com/ghpvc/?username=RaymondRaman&label=Profile%20views&color=0e75b6&style=flat" alt="RaymondRaman"/> 
 <a href="https://www.linkedin.com/in/raymond-li-563a08249/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 </a>
@@ -9,8 +10,6 @@
 <a href="https://leetcode.com/RaymondRaman/">
     <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
 </a>
-<img src="https://komarev.com/ghpvc/?username=RaymondRaman&label=Profile%20views&color=0e75b6&style=flat" alt="RaymondRaman"/> 
-
 🔭 I’m currently studying in CUHK
 
 🌱 I’m currently learning Spring Boot
@@ -23,7 +22,7 @@
 
 📚 Programming language/tools I know: 
 <br>
-Front End 
+<Strong>Front End</Strong>
 <br>
 ![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
@@ -32,16 +31,16 @@ Front End
 <br>
 ![bootstrap](https://github.com/RaymondRaman/RaymondRaman/assets/107023977/845a9508-4a32-4f6a-bd14-fdb6af75e02e)
 <br>
-Backend  
+<Strong>Backend</Strong>
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)
 ![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
 <br>
-Mobile 
+<Strong>Mobile</Strong>
 <br>
 {ReactNative}
 <br>
-Report 
+<Strong>Report</Strong>
 <br>
 {Crystal Report, Jasper Report}
 <p><br>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RaymondRaman&show_icons=true&locale=en&layout=compact" alt="RaymondRaman" /></p>
