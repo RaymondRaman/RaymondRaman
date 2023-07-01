@@ -1,13 +1,3 @@
-<style>
-  .image-container {
-    white-space: nowrap;
-  }
-  .image-container img {
-    display: inline-block;
-    vertical-align: middle;
-  }
-</style>
-
 <h1>Hi 👋, I'm Raymond</h1>
 <h3>A Passionate FinTech Student From CUHK</h3>
 <img src="https://komarev.com/ghpvc/?username=RaymondRaman&label=Profile%20views&color=0e75b6&style=flat" alt="RaymondRaman"/> 
