@@ -1,17 +1,16 @@
-<p align="left"> 
-    <h1>Hi 👋, I'm Raymond</h1>
-    <h3>A Passionate FinTech Student From CUHK</h3>
-    <a href="https://www.linkedin.com/in/raymond-li-563a08249/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
-    <a href="LIKAWAI@link.cuhk.edu.hk">
-        <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
-    </a>
-    <a href="[https://leetcode.com/wervlad](https://leetcode.com/RaymondRaman/)">
-        <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=RaymondRaman&label=Profile%20views&color=0e75b6&style=flat" alt="RaymondRaman"/> 
-</p>
+<h1>Hi 👋, I'm Raymond</h1>
+<h3>A Passionate FinTech Student From CUHK</h3>
+<a href="https://www.linkedin.com/in/raymond-li-563a08249/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+</a>
+<a href="LIKAWAI@link.cuhk.edu.hk">
+    <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
+</a>
+<a href="[https://leetcode.com/wervlad](https://leetcode.com/RaymondRaman/)">
+    <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
+</a>
+<img src="https://komarev.com/ghpvc/?username=RaymondRaman&label=Profile%20views&color=0e75b6&style=flat" alt="RaymondRaman"/> 
+
 🔭 I’m currently studying in CUHK
 
 🌱 I’m currently learning Spring Boot
