@@ -35,12 +35,12 @@
 </div>
 <Strong>Mobile</Strong>
 <div class="image-container">
-    <img src="https://github.com/RaymondRaman/RaymondRaman/assets/107023977/9e6f37ae-4445-4f4a-b22b-edaba43380d4" height="80px">
+    <img src="https://github.com/RaymondRaman/RaymondRaman/assets/107023977/9e6f37ae-4445-4f4a-b22b-edaba43380d4" height="50px">
 </div>
 <Strong>Report</Strong>
 <div class="image-container">
-    <img src="https://github.com/RaymondRaman/RaymondRaman/assets/107023977/c8608347-cc86-44d0-9a18-8856ef722760" height="80px">
-    <img src="https://github.com/RaymondRaman/RaymondRaman/assets/107023977/3f828ca5-6bee-4429-a183-6e169e801ed5" height="80px" width="56px">
+    <img src="https://github.com/RaymondRaman/RaymondRaman/assets/107023977/c8608347-cc86-44d0-9a18-8856ef722760" height="50px">
+    <img src="https://github.com/RaymondRaman/RaymondRaman/assets/107023977/3f828ca5-6bee-4429-a183-6e169e801ed5" height="50px" width="56px">
 </div>
 <p><br>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RaymondRaman&show_icons=true&locale=en&layout=compact" alt="RaymondRaman" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RaymondRaman&" alt="RaymondRaman" /></p>
