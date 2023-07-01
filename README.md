@@ -33,3 +33,5 @@ Mobile
 Report 
 <br>
 {Crystal Report, Jasper Report}
+<p><br>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RaymondRaman&show_icons=true&locale=en&layout=compact" alt="RaymondRaman" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RaymondRaman&" alt="RaymondRaman" /></p>
