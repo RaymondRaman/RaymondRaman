@@ -6,7 +6,7 @@
 <a href="LIKAWAI@link.cuhk.edu.hk">
     <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
 </a>
-<a href="[https://leetcode.com/wervlad](https://leetcode.com/RaymondRaman/)">
+<a href="https://leetcode.com/RaymondRaman/">
     <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
 </a>
 <img src="https://komarev.com/ghpvc/?username=RaymondRaman&label=Profile%20views&color=0e75b6&style=flat" alt="RaymondRaman"/> 
@@ -25,11 +25,11 @@
 <br>
 Front End 
 <br>
-![html](https://github.com/RaymondRaman/RaymondRaman/assets/107023977/9d50f7d9-f1bf-4333-9428-5d0899f44c97)
-![css](https://github.com/RaymondRaman/RaymondRaman/assets/107023977/635e96ce-2a60-411f-9711-614f3ede1f9e)
+![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
 ![bootstrap](https://github.com/RaymondRaman/RaymondRaman/assets/107023977/845a9508-4a32-4f6a-bd14-fdb6af75e02e)
-![javascript](https://github.com/RaymondRaman/RaymondRaman/assets/107023977/c29d7d1b-1586-4730-91fd-fe61f6c3399a)
-![react](https://github.com/RaymondRaman/RaymondRaman/assets/107023977/ef4901f3-3d52-4e7b-9e67-099d697a7fa0)
 <br>
 Backend  
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
