@@ -1,16 +1,28 @@
-<h1 align="center">Hi 👋, I'm Raymond</h1>
-<h3 align="center">A Passionate FinTech Student From CUHK</h3>
+<p align="center">
+  <h1>Hi 👋, I'm Raymond</h1>
+  <h3>A Passionate FinTech Student From CUHK</h3>
+  <a href="https://www.linkedin.com/in/raymond-li-563a08249/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    </a>
+    <a href="LIKAWAI@link.cuhk.edu.hk">
+        <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
+    </a>
+    <a href="[https://leetcode.com/wervlad](https://leetcode.com/RaymondRaman/)">
+        <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
+    </a>
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RaymondRaman&label=Profile%20views&color=0e75b6&style=flat" alt="RaymondRaman"/> </p>
-
-🔭 I’m currently studying in CUHK
-
-🌱 I’m currently learning Spring Boot
-
-🤔 I’m looking for help with programming
-
-💬 Ask me about Anime, Badminton and Hi-Fi 
-
-📫 How to reach me: LIKAWAI@link.cuhk.edu.hk
+<p align="center">
+  🔭 I’m currently studying in CUHK
+  
+  🌱 I’m currently learning Spring Boot
+  
+  🤔 I’m looking for help with programming
+  
+  💬 Ask me about Anime, Badminton and Hi-Fi 
+  
+  📫 How to reach me: LIKAWAI@link.cuhk.edu.hk
+</p>
 
 📚 Programming language/tools I know: 
 <br>
@@ -24,6 +36,9 @@ Front End
 <br>
 Backend  
 <br>
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)]
+[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)]
+[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)]
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
