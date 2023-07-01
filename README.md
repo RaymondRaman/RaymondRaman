@@ -1,8 +1,6 @@
-<p align="center">
-  <h1>Hi 👋, I'm Raymond</h1>
-  <h3>A Passionate FinTech Student From CUHK</h3>
-</p>
 <p align="left"> 
+    <h1>Hi 👋, I'm Raymond</h1>
+    <h3>A Passionate FinTech Student From CUHK</h3>
     <a href="https://www.linkedin.com/in/raymond-li-563a08249/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
