@@ -10,6 +10,16 @@
 <a href="https://leetcode.com/RaymondRaman/">
     <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
 </a>
+🔭 I’m currently studying in CUHK
+
+🌱 I’m currently learning Spring Boot
+
+🤔 I’m looking for help with programming
+
+💬 Ask me about Anime, Badminton and Hi-Fi 
+
+📫 How to reach me: LIKAWAI@link.cuhk.edu.hk
+
 📚 Programming language/tools I know: 
 <br>
 <Strong>Front End</Strong>
