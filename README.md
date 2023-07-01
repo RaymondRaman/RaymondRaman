@@ -26,6 +26,10 @@ Backend
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
 <br>
-Mobile {ReactNative}
+Mobile 
 <br>
-Report {Crystal Report, Jasper Report}
+{ReactNative}
+<br>
+Report 
+<br>
+{Crystal Report, Jasper Report}
