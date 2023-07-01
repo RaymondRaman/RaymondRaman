@@ -22,17 +22,17 @@
 <Strong>Front End</Strong>
 <br>
 <img src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5">
-![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
+<img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3">
+<img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript">
+<img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react">
 <br>
-![bootstrap](https://github.com/RaymondRaman/RaymondRaman/assets/107023977/845a9508-4a32-4f6a-bd14-fdb6af75e02e)
+<img src="https://github.com/RaymondRaman/RaymondRaman/assets/107023977/845a9508-4a32-4f6a-bd14-fdb6af75e02e">
 <br>
 <Strong>Backend</Strong>
 <br>
-![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)
-![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
+<img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python">
+<img src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk">
+<img src="https://img.shields.io/badge/c-black?style=for-the-badge&logo=c">
 <br>
 <Strong>Mobile</Strong>
 <br>
