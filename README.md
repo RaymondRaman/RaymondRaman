@@ -1,6 +1,8 @@
+👋 I'm Raymond
+
 🔭 I’m currently studying in CUHK
 
-🌱 I’m currently learning Frontend & Design stuff
+🌱 I’m currently learning Spring Boot
 
 🤔 I’m looking for help with programming
 
@@ -18,7 +20,9 @@ Front End
 ![javascript](https://github.com/RaymondRaman/RaymondRaman/assets/107023977/c29d7d1b-1586-4730-91fd-fe61f6c3399a)
 ![react](https://github.com/RaymondRaman/RaymondRaman/assets/107023977/ef4901f3-3d52-4e7b-9e67-099d697a7fa0)
 <br>
-Backend { python, java, C }
+Backend 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+{ python, java, C }
 <br>
 Mobile {ReactNative}
 <br>
