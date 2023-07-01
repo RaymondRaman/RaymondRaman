@@ -40,7 +40,7 @@
 <Strong>Report</Strong>
 <div class="image-container">
     <img src="https://github.com/RaymondRaman/RaymondRaman/assets/107023977/c8608347-cc86-44d0-9a18-8856ef722760" height="50px">
-    <img src=https://github.com/RaymondRaman/RaymondRaman/assets/107023977/d640a6fc-f29f-4073-bea0-193de1a51054"" height="100px" width="80px">
+    <img src=https://github.com/RaymondRaman/RaymondRaman/assets/107023977/d640a6fc-f29f-4073-bea0-193de1a51054"" height="50px" width="300px">
 </div>
 <p><br>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RaymondRaman&show_icons=true&locale=en&layout=compact" alt="RaymondRaman" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RaymondRaman&" alt="RaymondRaman" /></p>
