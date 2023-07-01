@@ -12,15 +12,15 @@
 </a>
 <br>
 🔭 I’m currently studying in CUHK
-
+<br>
 🌱 I’m currently learning Spring Boot
-
+<br>
 🤔 I’m looking for help with programming
-
+<br>
 💬 Ask me about Anime, Badminton and Hi-Fi 
-
+<br>
 📫 How to reach me: LIKAWAI@link.cuhk.edu.hk
-
+<br>
 📚 Programming language/tools I know: 
 <br>
 <Strong>Front End</Strong>
