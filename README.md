@@ -39,7 +39,9 @@
 </div>
 <br>
 <Strong>Report</Strong>
-<br>
-{Crystal Report, Jasper Report}
+<div class="image-container">
+    <img src="https://github.com/RaymondRaman/RaymondRaman/assets/107023977/c8608347-cc86-44d0-9a18-8856ef722760" height="28px">
+    <img src="https://github.com/RaymondRaman/RaymondRaman/assets/107023977/3f828ca5-6bee-4429-a183-6e169e801ed5" height="28px">
+</div>
 <p><br>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RaymondRaman&show_icons=true&locale=en&layout=compact" alt="RaymondRaman" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RaymondRaman&" alt="RaymondRaman" /></p>
