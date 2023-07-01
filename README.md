@@ -28,11 +28,11 @@
   <img src="https://github.com/RaymondRaman/RaymondRaman/assets/107023977/845a9508-4a32-4f6a-bd14-fdb6af75e02e">
 </div>
 <Strong>Backend</Strong>
-<br>
-<img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python">
-<img src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk">
-<img src="https://img.shields.io/badge/c-black?style=for-the-badge&logo=c">
-<br>
+<div class="image-container">
+    <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python">
+    <img src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk">
+    <img src="https://img.shields.io/badge/c-black?style=for-the-badge&logo=c">
+</div>
 <Strong>Mobile</Strong>
 <br>
 {ReactNative}
