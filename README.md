@@ -14,9 +14,9 @@
     🔭 I’m currently studying in CUHK<br><br>
     🌱 I’m currently learning Spring Boot<br><br>
     🤔 I’m looking for help with programming<br><br>
-    💬 Ask me about Anime, Badminton and Hi-Fi<br>
+    💬 Ask me about Anime, Badminton and Hi-Fi<br><br>
     📫 How to reach me: LIKAWAI@link.cuhk.edu.hk<br><br>
-</i><br>
+</i>
 📚 Programming language/tools I know: 
 <br>
 <Strong>Front End</Strong>
