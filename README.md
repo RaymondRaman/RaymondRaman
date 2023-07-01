@@ -1,6 +1,8 @@
 <p align="center">
   <h1>Hi 👋, I'm Raymond</h1>
   <h3>A Passionate FinTech Student From CUHK</h3>
+</p>
+<p align="left"> 
     <a href="https://www.linkedin.com/in/raymond-li-563a08249/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
@@ -10,8 +12,8 @@
     <a href="[https://leetcode.com/wervlad](https://leetcode.com/RaymondRaman/)">
         <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
     </a>
+    <img src="https://komarev.com/ghpvc/?username=RaymondRaman&label=Profile%20views&color=0e75b6&style=flat" alt="RaymondRaman"/> 
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RaymondRaman&label=Profile%20views&color=0e75b6&style=flat" alt="RaymondRaman"/> </p>
 🔭 I’m currently studying in CUHK
 
 🌱 I’m currently learning Spring Boot
@@ -33,13 +35,9 @@ Front End
 ![react](https://github.com/RaymondRaman/RaymondRaman/assets/107023977/ef4901f3-3d52-4e7b-9e67-099d697a7fa0)
 <br>
 Backend  
-<br>
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)
 ![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
 <br>
 Mobile 
 <br>
