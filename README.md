@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3">
   <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript">
   <img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react">
-  <img src="https://github.com/RaymondRaman/RaymondRaman/assets/107023977/845a9508-4a32-4f6a-bd14-fdb6af75e02e" height="1px">
+  <img src="https://github.com/RaymondRaman/RaymondRaman/assets/107023977/845a9508-4a32-4f6a-bd14-fdb6af75e02e" height="150px">
 </div>
 <Strong>Backend</Strong>
 <div class="image-container">
