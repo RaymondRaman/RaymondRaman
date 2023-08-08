@@ -2,7 +2,7 @@
     <h1>👋 Hi, I'm Raymond</h1>
     🔭 I’m currently studying in CUHK<br><br>
     🤔 I’m looking for help with programming<br><br>
-    📫 How to reach me: 
+    📫 How to reach me: <br><br>
     <a href="https://www.linkedin.com/in/raymond-li-563a08249/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 </a>
