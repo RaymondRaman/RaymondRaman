@@ -38,4 +38,3 @@
     <img src="https://github.com/RaymondRaman/RaymondRaman/assets/107023977/d0c8377e-3f9e-465a-b7e9-34c519e54fd2" height="70px" width="150px">
 </div>
 <p><br>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RaymondRaman&show_icons=true&locale=en&layout=compact" alt="RaymondRaman" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RaymondRaman&" alt="RaymondRaman" /></p>
