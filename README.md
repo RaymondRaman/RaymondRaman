@@ -1,5 +1,3 @@
-<h1>Hi 👋, I'm Raymond</h1>
-<h3>A Passionate FinTech Student From CUHK</h3>
 <img src="https://komarev.com/ghpvc/?username=RaymondRaman&label=Profile%20views&color=0e75b6&style=flat" alt="RaymondRaman"/> 
 <a href="https://www.linkedin.com/in/raymond-li-563a08249/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
@@ -11,6 +9,7 @@
     <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
 </a><br>
 <i>
+    👋 Hi, I'm Raymond
     🔭 I’m currently studying in CUHK<br><br>
     🤔 I’m looking for help with programming<br><br>
     📫 How to reach me: LIKAWAI@link.cuhk.edu.hk<br><br>
