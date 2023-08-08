@@ -1,5 +1,4 @@
-<i>
-    <h1>👋 Hi, I'm Raymond</h1>
+<h1>👋 Hi, I'm Raymond</h1>
     🔭 I’m currently studying in CUHK<br><br>
     🤔 I’m looking for help with programming<br><br>
     📫 How to reach me: <br><br>
@@ -12,7 +11,6 @@
 <a href="https://leetcode.com/RaymondRaman/">
     <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
 </a><br>
-</i>
 📚 Programming language/tools I know: 
 <br>
 <Strong>Front End</Strong>
