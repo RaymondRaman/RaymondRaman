@@ -1,5 +1,9 @@
-<img src="https://komarev.com/ghpvc/?username=RaymondRaman&label=Profile%20views&color=0e75b6&style=flat" alt="RaymondRaman"/> 
-<a href="https://www.linkedin.com/in/raymond-li-563a08249/">
+<i>
+    👋 Hi, I'm Raymond
+    🔭 I’m currently studying in CUHK<br><br>
+    🤔 I’m looking for help with programming<br><br>
+    📫 How to reach me: 
+    <a href="https://www.linkedin.com/in/raymond-li-563a08249/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 </a>
 <a href="LIKAWAI@link.cuhk.edu.hk">
@@ -8,11 +12,6 @@
 <a href="https://leetcode.com/RaymondRaman/">
     <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
 </a><br>
-<i>
-    👋 Hi, I'm Raymond
-    🔭 I’m currently studying in CUHK<br><br>
-    🤔 I’m looking for help with programming<br><br>
-    📫 How to reach me: LIKAWAI@link.cuhk.edu.hk<br><br>
 </i>
 📚 Programming language/tools I know: 
 <br>
