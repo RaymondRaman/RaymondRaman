@@ -15,19 +15,21 @@
 <br>
 <Strong>Front End</Strong>
 <div class="image-container">
-  <img src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5">
+  <img src="https://img.shields.io/badge/html5-black?style![logo](https://github.com/RaymondRaman/RaymondRaman/assets/107023977/70e03dd0-c955-41cb-81e5-ae10f040dc80)
+=for-the-badge&logo=html5">
   <img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3">
   <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript">
   <img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react">
   <img src="https://github.com/RaymondRaman/RaymondRaman/assets/107023977/845a9508-4a32-4f6a-bd14-fdb6af75e02e" height="28px">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="28px"/> 
 </div>
+
 <Strong>Backend</Strong>
 <div class="image-container">
     <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python">
     <img src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk">
     <img src="https://img.shields.io/badge/c-black?style=for-the-badge&logo=c">
-    <img src="doc/src/assets/logo.svg" alt="Julia Logo" width="75px" height="35px"></img>
+    <img src="https://github.com/RaymondRaman/RaymondRaman/assets/107023977/dfaffed4-ed2a-41f5-86a4-b3e0b8a1ab28" alt="Julia Logo" width="75px" height="35px"></img>
 </div>
 <Strong>Report</Strong>
 <div class="image-container">
