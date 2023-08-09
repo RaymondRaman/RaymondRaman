@@ -27,6 +27,7 @@
     <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python">
     <img src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk">
     <img src="https://img.shields.io/badge/c-black?style=for-the-badge&logo=c">
+    <img src="doc/src/assets/logo.svg" alt="Julia Logo" width="75px" height="35px"></img>
 </div>
 <Strong>Report</Strong>
 <div class="image-container">
