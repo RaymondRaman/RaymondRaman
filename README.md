@@ -1,5 +1,5 @@
 <h1>👋 Hi, I'm Raymond</h1>
-    🔭 I’m currently studying in CUHK<br><br>
+    🔭 I’m currently studying in CUHK BEng. FinTech<br><br>
     🤔 I’m looking for help with Machine Learning Project<br><br>
     📫 How to reach me: <br>
     <a href="https://www.linkedin.com/in/raymond-li-563a08249/">
