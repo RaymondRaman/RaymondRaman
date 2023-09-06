@@ -13,7 +13,7 @@
 </a><br><br>
 📚 Programming language/tools I know: 
 <br>
-<Strong>Front End</Strong>
+## 🕸️ **WEB DEV**
 <div class="image-container">
   <img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" height="28px" />
   <img src="https://img.shields.io/badge/html5-black?style![logo](https://github.com/RaymondRaman/RaymondRaman/assets/107023977/70e03dd0-c955-41cb-81e5-ae10f040dc80)
