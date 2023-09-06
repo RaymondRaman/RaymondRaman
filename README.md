@@ -13,7 +13,7 @@
 </a><br><br>
 📚 Programming language/tools I know: 
 <br>
-## 🕸️ **WEB DEV**
+<Strong>WEB DEV</Strong>
 <div class="image-container">
   <img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" height="28px" />
   <img src="https://img.shields.io/badge/html5-black?style![logo](https://github.com/RaymondRaman/RaymondRaman/assets/107023977/70e03dd0-c955-41cb-81e5-ae10f040dc80)
@@ -24,7 +24,7 @@
   <img src="https://github.com/RaymondRaman/RaymondRaman/assets/107023977/845a9508-4a32-4f6a-bd14-fdb6af75e02e" height="28px">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="28px"/> 
 </div>
-<Strong>Backend</Strong>
+<Strong>BACKEND DEV</Strong>
 <div class="image-container">
     <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python">
     <img src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk">
