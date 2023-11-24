@@ -37,7 +37,7 @@
 <div class="image-container">
      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 </div>
-<Strong>Report</Strong>
+<Strong>REPORT</Strong>
 <div class="image-container">
     <img src="https://github.com/RaymondRaman/RaymondRaman/assets/107023977/c8608347-cc86-44d0-9a18-8856ef722760" height="35px">
     <img src="https://github.com/RaymondRaman/RaymondRaman/assets/107023977/d0c8377e-3f9e-465a-b7e9-34c519e54fd2" height="35px" width="75px">
