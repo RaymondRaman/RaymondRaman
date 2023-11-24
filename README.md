@@ -24,7 +24,6 @@
   <img src="https://github.com/RaymondRaman/RaymondRaman/assets/107023977/845a9508-4a32-4f6a-bd14-fdb6af75e02e" height="28px" alt="Bootstrap">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="28px"/> 
  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" height="28px"/> 
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" height="28px"/> 
 </div>
 <Strong>BACKEND DEV</Strong>
 <div class="image-container">
@@ -36,7 +35,7 @@
 </div>
 <Strong>BACKEND DEV</Strong>
 <div class="image-container">
-    [![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white "Mongodb")][repo]
+     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 </div>
 <Strong>Report</Strong>
 <div class="image-container">
