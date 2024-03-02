@@ -33,7 +33,7 @@ z<a href="LIKAWAI@link.cuhk.edu.hk">
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white " alt="Node.js">
     <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge " alt="Express.js">
      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-    <img src="https://iconduck.com/icons/12967/django-original" height="28px" alt="Django">
+    <img src="[https://iconduck.com/icons/12967/django-original](https://static.djangoproject.com/img/logos/django-logo-negative.png)" height="28px" alt="Django">
 </div>
 <Strong>REPORT</Strong>
 <div class="image-container">
