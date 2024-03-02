@@ -5,7 +5,7 @@
     <a href="https://www.linkedin.com/in/raymond-li-563a08249/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 </a>
-<a href="LIKAWAI@link.cuhk.edu.hk">
+z<a href="LIKAWAI@link.cuhk.edu.hk">
     <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
 </a>
 <a href="https://leetcode.com/RaymondRaman/">
@@ -20,7 +20,7 @@
 =for-the-badge&logo=html5">
   <img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3" alt="css">
   <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript" alt="Javascript">
-  <img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react alt="React">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="28px">
   <img src="https://github.com/RaymondRaman/RaymondRaman/assets/107023977/845a9508-4a32-4f6a-bd14-fdb6af75e02e" height="28px" alt="Bootstrap">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="28px"/> 
  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" height="28px"/> 
@@ -33,6 +33,7 @@
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white " alt="Node.js">
     <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge " alt="Express.js">
      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+    <img src="https://iconduck.com/icons/12967/django-original" height="28px" alt="Django">
 </div>
 <Strong>REPORT</Strong>
 <div class="image-container">
