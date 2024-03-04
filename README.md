@@ -5,7 +5,7 @@
     <a href="https://www.linkedin.com/in/raymond-li-563a08249/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 </a>
-z<a href="LIKAWAI@link.cuhk.edu.hk">
+<a href="LIKAWAI@link.cuhk.edu.hk">
     <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
 </a>
 <a href="https://leetcode.com/RaymondRaman/">
